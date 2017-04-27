@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="2243" it="0" lt="2243" ct="2155" ts="1493262663328" s="true" lb="GetTokenRequest" rc="200" rm="OK" tn="GetToken 1-1" dt="text" by="310" sby="192" ng="1" na="1"/>
+
+</testResults>
